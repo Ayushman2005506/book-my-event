@@ -13,17 +13,13 @@
 <p align="left">Built with the tools and technologies:</p>
 <p align="left">
 	<img src="https://img.shields.io/badge/npm-CB3837.svg?style=plastic&logo=npm&logoColor=white" alt="npm">
-	<img src="https://img.shields.io/badge/Autoprefixer-DD3735.svg?style=plastic&logo=Autoprefixer&logoColor=white" alt="Autoprefixer">
 	<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=plastic&logo=HTML5&logoColor=white" alt="HTML5">
-	<img src="https://img.shields.io/badge/PostCSS-DD3A0A.svg?style=plastic&logo=PostCSS&logoColor=white" alt="PostCSS">
+	<img src="https://img.shields.io/badge/CSS-DD3A0A.svg?style=plastic&logo=CSS&logoColor=white" alt="CSS">
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=plastic&logo=JavaScript&logoColor=black" alt="JavaScript">
 	<img src="https://img.shields.io/badge/React-61DAFB.svg?style=plastic&logo=React&logoColor=black" alt="React">
 	<br>
 	<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=plastic&logo=TypeScript&logoColor=white" alt="TypeScript">
-	<img src="https://img.shields.io/badge/Zod-3E67B1.svg?style=plastic&logo=Zod&logoColor=white" alt="Zod">
 	<img src="https://img.shields.io/badge/Vite-646CFF.svg?style=plastic&logo=Vite&logoColor=white" alt="Vite">
-	<img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=plastic&logo=ESLint&logoColor=white" alt="ESLint">
-	<img src="https://img.shields.io/badge/datefns-770C56.svg?style=plastic&logo=date-fns&logoColor=white" alt="datefns">
 </p>
 </div>
 <br clear="right">
